@@ -1,5 +1,5 @@
 # Basic Image Downscaler:
-<img align="left" width="100" height="100" src="images/icon.ico">
+<img align="left" width="95" height="95" src="images/icon.ico">
 
 Basic python script that takes images, and downscales them to 70 x 70 dimensions without changing the aspect ratio. The program is coupled with a basic GUI that you feed the image folder and the destination folder (all user defined) into for the process to begin. The required modules are included in the ***requirements.txt*** file.
 
