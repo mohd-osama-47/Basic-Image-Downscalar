@@ -7,5 +7,6 @@ Basic python script that takes images, and downscales them to 70 x 70 dimensions
 
 ## Operation and Images Source:
 ![GUI](images/gui.png)
+
 This is inteded to be used with 224x224 images sourced from the Google Teachable Machine online tool. This is due to the easy nature of capturing a big amount of pictures at one go.
 Just go to [Teachable Machine](https://teachablemachine.withgoogle.com/train/image), collect the samples at your own leisure with their awesome online tool, and download the zip file containing the images. Run the downscaler to prepare the data into the agreed upon dimensions (70x70), and that should be it! 
